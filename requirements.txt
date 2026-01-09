@@ -1,0 +1,6 @@
+ultralytics
+huggingface_hub
+streamlit
+tensorflow
+opencv-python-headless
+numpy
